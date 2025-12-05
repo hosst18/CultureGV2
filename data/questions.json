@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Quelle est la capitale de l'Australie ?",
+    "choices": ["Sydney", "Canberra", "Melbourne"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "En quelle année est sorti le premier iPhone ?",
+    "choices": ["2005", "2007", "2009"],
+    "answer": "2007"
+  }
+]
