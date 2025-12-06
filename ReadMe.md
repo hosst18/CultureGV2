@@ -191,7 +191,7 @@ Contributions bienvenues :
 
 # 💡 Auteur
 
-Développé par **Hossam **.  
+Développé par **Hossam**.  
 Objectif : créer une **référence CultureG** sur Discord.
 
 ---
